@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# Arduino build cache
+*.hex
+*.elf
+*.bin
+
+# Scanned notes & raw photos
+*.pdf
+f00929d1-a503-4345-9d31-1859c63daea0.jpeg
+d4aef8c5-58ca-4970-9a0e-2970b76461f4.jpg
+
+# OS
+.DS_Store
+Thumbs.db
